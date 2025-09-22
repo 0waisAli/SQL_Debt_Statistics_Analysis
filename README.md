@@ -5,9 +5,9 @@ The goal of this project is to practice SQL queries for data analysis and to ans
 
 -> Which countries owe the highest amount of debt?
 
-=> Which countries have the lowest principal repayments?
+-> Which countries have the lowest principal repayments?
 
-=> What are the top 5 countries by total debt (principal + interest)?
+-> What are the top 5 countries by total debt (principal + interest)?
 
 -> How does the average debt vary across different debt indicators?
 
