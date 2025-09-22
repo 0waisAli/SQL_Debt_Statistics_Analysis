@@ -3,27 +3,27 @@ This project analyzes international debt data collected by The World Bank, focus
 
 The goal of this project is to practice SQL queries for data analysis and to answer important financial questions such as:
 
-Which countries owe the highest amount of debt?
+-> Which countries owe the highest amount of debt?
 
-Which countries have the lowest principal repayments?
+=> Which countries have the lowest principal repayments?
 
-What are the top 5 countries by total debt (principal + interest)?
+=> What are the top 5 countries by total debt (principal + interest)?
 
-How does the average debt vary across different debt indicators?
+-> How does the average debt vary across different debt indicators?
 
 🛠️ Queries Performed
 
-Number of distinct countries
+1) Number of distinct countries
 Counts how many unique countries are present in the dataset.
 
-Highest Country Debt
+2) Highest Country Debt
 Aggregates total debt per country and identifies the one with the largest debt burden.
 
-Lowest Principal Repayment
+3) Lowest Principal Repayment
 Finds the country with the lowest value of principal repayments (DT.AMT.DLXF.CD).
 
-Top 5 Countries by Total Debt (Principal + Interest)
+4) Top 5 Countries by Total Debt (Principal + Interest)
 Identifies countries with the highest combined debt (principal + interest repayments).
 
-Average Debt by Debt Type
+5) Average Debt by Debt Type
 Calculates the average debt value grouped by indicator type, highlighting which debt categories have the highest averages.
